@@ -1,4 +1,4 @@
-# Notch Contact Automation Project
+# Notch Contactus Automation Project
 
 This project automates the "Contact Us" page on the [Notch website](https://wearenotch.com/contact/) using **Selenium WebDriver** with Java and the **Page Object Model (POM)** pattern. The automation covers handling pop-ups, filling out the contact form, selecting services, uploading files, and verifying the functionality of the "Get in touch" button.
 
