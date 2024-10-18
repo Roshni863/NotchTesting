@@ -1,0 +1,24 @@
+Release Notes
+Version 1.1.0 - October 18, 2024
+
+Overview
+This update adds several new features to the "Contact Us" page, with the aim of offering the best possible user experience and increasing user engagement.
+
+New Features
+Chatbot Integration: A chatbot feature is integrated that guides and assists users in real-time about their queries before actually sending the form.
+
+Improvements
+Performance Optimization: Optimized the loading time of the page-the user will face a smoother experience.
+
+Bugs
+Email Confirmation Issue: Fixed bug in sending confirmation emails to the users after the form submission. It will send an email to the user acknowledging the inquiry.
+
+Known Issues
+There are slower load times when accessing the form on mobile devices. We continue   investigating the problem and will post a future release update.
+
+Future Enhancments
+We are going to enhance this form by adding verification via CAPTCHA to avoid spam submissions in the next version.
+
+Acknowledgements
+Thanks to our users, who through their feedback and contributions helped us shape these enhancements. Your inputs mean a lot as we try to continuously improve our services!
+
